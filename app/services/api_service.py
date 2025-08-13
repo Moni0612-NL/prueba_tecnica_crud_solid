@@ -1,3 +1,5 @@
+# ApiService - Cliente para la API de prueba
+# ID de usuario usado en esta entrega: M9JRA3
 import time
 import requests
 from requests.exceptions import RequestException
